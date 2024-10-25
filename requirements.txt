@@ -1,5 +1,6 @@
 openai
 langchain
+langchain-community
 chromadb
 docx2txt
 pypdf
