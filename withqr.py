@@ -64,7 +64,7 @@ if __name__ == "__main__":
     st.subheader("Meril ChatBot")
 
     # Manually set the URL of your app
-    app_url = "http://localhost:8501"  # Change this to your actual app URL if deployed
+    app_url = "https://chatbot-346watdk4jejiujeys8pzk.streamlit.app"  # Change this to your actual app URL if deployed
 
     # Generate the QR code
     qr_image = generate_qr_code(app_url)
